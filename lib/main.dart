@@ -40,7 +40,7 @@ class _HomePageState extends State<HomePage> {
   CameraController? cameraController;
   String output=" ";
 
-  voic
+  
 
   @override
   initState(){
